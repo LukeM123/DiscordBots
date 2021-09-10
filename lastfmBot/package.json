@@ -1,0 +1,23 @@
+{
+  "name": "lastfmbot",
+  "version": "1.0.0",
+  "description": "lastfm grid discord bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LukeM123/DiscordBots.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LukeM123/DiscordBots/issues"
+  },
+  "homepage": "https://github.com/LukeM123/DiscordBots#readme",
+  "dependencies": {
+    "discord.js": "^13.1.0",
+    "node": "16.6.1"
+  }
+}
